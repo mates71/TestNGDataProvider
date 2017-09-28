@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4311" started-at="2017-08-30T20:16:21Z" finished-at="2017-08-30T20:16:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4311" started-at="2017-08-30T20:16:21Z" finished-at="2017-08-30T20:16:25Z">
+      <class name="org.testng.dataprovider.ThedemositeDDT">
+        <test-method status="PASS" signature="openDemoSite()[pri:0, instance:org.testng.dataprovider.ThedemositeDDT@204f30ec]" name="openDemoSite" is-config="true" duration-ms="2197" started-at="2017-08-30T16:16:21Z" finished-at="2017-08-30T16:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openDemoSite -->
+        <test-method status="PASS" signature="demoSiteCoUkDDT(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.ThedemositeDDT@204f30ec]" name="demoSiteCoUkDDT" duration-ms="626" started-at="2017-08-30T16:16:23Z" data-provider="Credentials" finished-at="2017-08-30T16:16:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mike]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mike@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoSiteCoUkDDT -->
+        <test-method status="PASS" signature="demoSiteCoUkDDT(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.ThedemositeDDT@204f30ec]" name="demoSiteCoUkDDT" duration-ms="547" started-at="2017-08-30T16:16:24Z" data-provider="Credentials" finished-at="2017-08-30T16:16:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Steven]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[steven@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoSiteCoUkDDT -->
+        <test-method status="PASS" signature="demoSiteCoUkDDT(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.ThedemositeDDT@204f30ec]" name="demoSiteCoUkDDT" duration-ms="439" started-at="2017-08-30T16:16:24Z" data-provider="Credentials" finished-at="2017-08-30T16:16:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sarah]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sarah@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoSiteCoUkDDT -->
+        <test-method status="PASS" signature="demoSiteCoUkDDT(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.ThedemositeDDT@204f30ec]" name="demoSiteCoUkDDT" duration-ms="481" started-at="2017-08-30T16:16:25Z" data-provider="Credentials" finished-at="2017-08-30T16:16:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kevin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kevin@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoSiteCoUkDDT -->
+      </class> <!-- org.testng.dataprovider.ThedemositeDDT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
